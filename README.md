@@ -15,14 +15,3 @@ Shark é um projeto pessoal em HTML, CSS e JavaScript, criado para partilhar inf
 ## 🌐 Demo
 
 Aceda ao site em: [sharks.helderzx.pt](#)
-
-## 📂 Estrutura do Projeto
-
-shark/
-├── index.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── script.js
-└── assets/
-└── imagens/
