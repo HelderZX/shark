@@ -1,17 +1,9 @@
-# Shark
+#🔹 About
 
-Um site simples que apresenta curiosidades e factos sobre tubarões.
+Shark is a personal project built with HTML, CSS, and JavaScript, designed to share information about sharks in a simple and visual way. Ideal for anyone wanting to learn more about these fascinating animals without complexity.
 
-## 🔹 Sobre
+#💻 Technologies
 
-Shark é um projeto pessoal em HTML, CSS e JavaScript, criado para partilhar informações de forma visual e acessível. Ideal para quem quer aprender mais sobre estes animais fascinantes sem complexidade.
-
-## 💻 Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
-## 🌐 Demo
-
-Aceda ao site em: [sharks.helderzx.pt](#)
+-HTML5
+-CSS3
+-Vanilla JavaScript
